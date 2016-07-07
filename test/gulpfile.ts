@@ -1,4 +1,5 @@
 import { join } from 'path';
+import {require, process} from "../typings/globals/node/index";
 
 const config: any = {
   gulp: require('gulp'),
