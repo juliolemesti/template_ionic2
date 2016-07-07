@@ -9,3 +9,5 @@ plugins/
 *.swp
 .DS_Store
 Thumbs.db
+/npm-debug.log3
+/coverage/
